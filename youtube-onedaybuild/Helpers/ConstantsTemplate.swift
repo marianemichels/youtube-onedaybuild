@@ -9,7 +9,7 @@ import Foundation
 
 // Copy of the Constants.swift file that gets uploaded to the repository without sensitive information (API_KEY)
 
-
+/*
 
 struct Constants {
     
@@ -20,4 +20,5 @@ struct Constants {
     
     static var VIDEOCELL_ID = "VideoCell"
 }
+ */
  
